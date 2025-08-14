@@ -19,8 +19,6 @@ Users can add tasks, delete tasks, and manage their daily to-dos in an interacti
 
 ---
 
----
-
 ## 📦 How to Run
 1. Clone this repository 
    ```bash
